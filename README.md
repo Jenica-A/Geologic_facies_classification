@@ -12,3 +12,4 @@ The lengthiest (read expensive) and perhaps most subjective portion of the descr
 
 In this project, I attempt to produce a logistic regression classification model that can predict a rock's facies type, based on the XRF data alone. My specific research question is: *Based on XRF data alone, how well can a logistic regression model predict a facies lable?*
 
+As with other AI tools, augementing the work of a human is the powerful outcome desired. I argue, if done reliably, responsibly, successfully, the automation of facies description could produce more objective rock description data on a quicker timeline than having a geologist start from scratch, describing the rock by hand. Gound-truthing and human oversight is necessary, but would be a simpler, more streamlined, perhaps more reliable way to produce more consistent results and build more reliable models.  

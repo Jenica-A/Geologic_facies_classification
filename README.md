@@ -1,4 +1,4 @@
-## Geologic Facies Classification
+## Geologic Lithofacies Classification
 
 This project aims to use x-ray fluorescence (XRF) data from rock cores to predict lithofacies lables in a rock core from the Permian Basin in Texas. 
 

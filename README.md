@@ -15,3 +15,5 @@ In this project, I attempt to produce a logistic regression classification model
 As with other AI tools, augmenting the work of a human is the powerful outcome desired. I argue, if done reliably, responsibly, successfully, the automation of facies description could produce more objective rock description data on a quicker timeline than having a geologist start from scratch, describing the rock by hand. Ground-truthing and human oversight is necessary, but would be a simpler, more streamlined, perhaps more reliable way to produce more consistent results and build more reliable models.  
 
 As it stands, this project awaits facies labels to accompany the XRF data, for model training and testing. Model-building commencing in jupyter notebook 
+
+Update to this project: In the absence of facie data, I am now thinking about applying a clustering model and an anomoly detection model. 

@@ -1,0 +1,274 @@
+Depth,Fracture,Oil Stain
+7950,Open Fractures,Medium
+7950.5,Open Fractures,Heavy
+7951,Open Fractures;Open Fractures,Heavy
+7951.5,Open Fractures;Open Fractures,
+7952,Open Fractures;Open Fractures,
+7952.5,Open Fractures,
+7953,Open Fractures,
+7953.5,Open Fractures,
+7954,Open Fractures,
+7960,Cemented Fractures,
+7960.5,Cemented Fractures,
+7961,Open Fractures,
+7961.5,Cemented Fractures;Open Fractures,
+7962,Open Fractures;Open Fractures;Cemented Fractures,
+7962.5,Open Fractures,
+7963,Open Fractures,
+7963.5,Open Fractures;Open Fractures,
+7964,Open Fractures,
+7964.5,Open Fractures;Open Fractures,
+7965,Open Fractures,
+7983.5,Cemented Fractures,
+7984.5,Cemented Fractures,
+7986,,Light
+7987,,Light
+7987.5,,Light
+7993,Open Fractures,
+8001.5,Open Fractures,
+8006.5,Open Fractures,
+8010,,Light
+8010.5,,Light
+8012,,Light
+8012.5,,Light
+8014.5,Cemented Fractures,
+8016.5,Cemented Fractures,
+8019.5,Cemented Fractures,
+8032.5,Cemented Fractures,
+8040,Cemented Fractures;Cemented Fractures,
+8040.5,Cemented Fractures,
+8041,Cemented Fractures,
+8053,Cemented Fractures,
+8057,Cemented Fractures,
+8061.5,Cemented Fractures,
+8062.5,Cemented Fractures,
+8063.5,Open Fractures,
+8067,Cemented Fractures,
+8067.5,Cemented Fractures,
+8068.5,Cemented Fractures,
+8076.5,Cemented Fractures,
+8078,Cemented Fractures,
+8081.5,,Light
+8085.5,Cemented Fractures,
+8087,Cemented Fractures,
+8088,Cemented Fractures,
+8094.5,Cemented Fractures,
+8111.5,Open Fractures,
+8114.5,Open Fractures,
+8125.5,Cemented Fractures,
+8127.5,Open Fractures,
+8128,Cemented Fractures,
+8129,Open Fractures,
+8148.5,Cemented Fractures,
+8152.5,Cemented Fractures,
+8164.5,Cemented Fractures,
+8175.5,,Light
+8176,Cemented Fractures,
+8178,,Light
+8179,,Medium
+8179.5,Cemented Fractures,
+8191.5,Cemented Fractures,
+8192.5,Cemented Fractures,
+8195,,Light
+8195.5,,Light
+8196,,Light
+8200.5,Cemented Fractures,
+8201.5,Cemented Fractures,
+8210.5,,Light
+8211,,Light
+8211.5,Cemented Fractures,Light
+8212.5,Cemented Fractures,
+8213.5,Cemented Fractures,
+8215,Cemented Fractures,
+8235.5,Cemented Fractures,
+8238.5,,Medium
+8241,Cemented Fractures,
+8242,Cemented Fractures,
+8247.5,Cemented Fractures,
+8248.5,Cemented Fractures,
+8251,Open Fractures;Cemented Fractures,
+8251.5,Cemented Fractures,
+8252.5,Cemented Fractures,
+8256.5,Cemented Fractures,
+8258.5,Cemented Fractures,
+8260,Cemented Fractures,
+8262.5,Cemented Fractures,
+8263.5,,Light
+8264,,Light
+8265.5,Open Fractures,Light
+8266,Cemented Fractures,
+8287.5,Open Fractures,
+8291.5,,Light
+8296,,Light
+8296.5,,Light
+8297,,Light
+8297.5,Cemented Fractures,
+8299,Cemented Fractures,Light
+8303,,Light
+8303.5,,Light
+8304,,Light
+8304.5,,Light
+8305,,Light
+8305.5,Cemented Fractures,Light
+8306,,Light
+8306.5,,Light
+8307,,Light
+8307.5,,Light
+8308,,Light
+8308.5,,Light
+8309,,Light
+8309.5,,Light
+8310,,Light
+8310.5,,Light
+8311,,Light
+8311.5,,Light
+8312,,Light
+8312.5,,Light
+8313,,Light
+8313.5,,Light
+8314,,Light
+8315.5,,Light
+8316,,Light
+8316.5,,Light
+8317,,Light
+8318,,Light
+8318.5,,Light
+8319,,Light
+8321,,Light
+8322,,Light
+8324.5,,Light
+8325,,Light
+8325.5,,Light
+8327.5,Cemented Fractures,
+8328.5,Cemented Fractures,
+8329.5,Cemented Fractures;Cemented Fractures,
+8330,Cemented Fractures,
+8330.5,Cemented Fractures;Cemented Fractures,
+8336.5,Cemented Fractures,
+8337.5,Cemented Fractures,
+8338,Cemented Fractures,
+8338.5,Cemented Fractures,
+8350,,Light
+8351,,Medium
+8352,Open Fractures,
+8353,,Light
+8353.5,,Light
+8354,,Light
+8354.5,,Light
+8355,,Light
+8355.5,Cemented Fractures,
+8358,,Light
+8358.5,,Light
+8359,,Light
+8360,Cemented Fractures,
+8361,Cemented Fractures,
+8362,Cemented Fractures,
+8365,Cemented Fractures,
+8366,Cemented Fractures,
+8367.5,Cemented Fractures,
+8368,Cemented Fractures,
+8368.5,Cemented Fractures,
+8370,Cemented Fractures,
+8380,Cemented Fractures,Light
+8382.5,,Light
+8383,Cemented Fractures,Light
+8383.5,Cemented Fractures,
+8385,,Light
+8385.5,Cemented Fractures,Light
+8386,Cemented Fractures,Light
+8394.5,Cemented Fractures;Cemented Fractures,
+8395,Cemented Fractures,
+8395.5,Cemented Fractures;Cemented Fractures,Light
+8396,Cemented Fractures,
+8410,Cemented Fractures,
+8411.5,Cemented Fractures,
+8413,Cemented Fractures,
+8416,Cemented Fractures,
+8421,Cemented Fractures,
+8424,Cemented Fractures,
+8424.5,Cemented Fractures;Cemented Fractures,
+8425,Cemented Fractures,
+8428,Cemented Fractures,
+8429.5,,Heavy
+8434.5,,Light
+8435,,Light
+8435.5,,Light
+8436,,Light
+8442.5,,Light
+8443,,Light
+8443.5,,Light
+8446,Cemented Fractures,
+8448.5,Open Fractures,
+8450.5,Cemented Fractures,
+8451.5,,Light
+8452,,Light
+8458.5,Cemented Fractures,
+8471.5,Cemented Fractures,
+8474,,Light
+8474.5,,Light
+8475,,Light
+8475.5,,Light
+8476,,Light
+8476.5,,Light
+8477,,Light
+8484.5,Cemented Fractures,
+8485,,Light
+8487.5,Open Fractures,
+8490.5,Cemented Fractures,
+8491.5,Cemented Fractures,
+8493,Cemented Fractures,
+8494,Cemented Fractures,
+8496.5,Cemented Fractures,
+8497,Cemented Fractures,
+8500.5,Cemented Fractures,
+8515.5,Cemented Fractures,
+8521.5,Cemented Fractures,
+8640,Open Fractures,
+8645,Cemented Fractures,
+8646,Cemented Fractures,
+8664.5,Cemented Fractures,
+8666.5,Cemented Fractures,
+8668.5,Cemented Fractures,
+8682.5,Cemented Fractures,Light
+8694,Cemented Fractures,
+8707,Cemented Fractures,
+8707.5,Cemented Fractures,
+8708,Cemented Fractures,
+8723.5,Cemented Fractures,
+8725.5,Cemented Fractures,
+8727,Cemented Fractures,
+8728,Cemented Fractures,
+8728.5,Cemented Fractures,
+8729.5,,Light
+8730,,Light
+8730.5,,Light
+8731,,Light
+8731.5,,Light
+8732,,Light
+8732.5,,Light
+8733,,Light
+8733.5,Cemented Fractures,
+8738,Cemented Fractures,
+8739,Cemented Fractures,
+8743.5,Open Fractures,
+8744.5,Cemented Fractures,Light
+8745,,Light
+8747.5,Cemented Fractures,
+8750,Cemented Fractures,
+8752,Open Fractures,
+8757,,Light
+8758.5,Cemented Fractures,
+8762.5,Cemented Fractures,
+8766,Cemented Fractures,
+8775,Open Fractures,
+8779,Open Fractures,
+8784,Open Fractures,
+8785,Open Fractures,
+8791,,Light
+8796,Cemented Fractures,Light
+8799,,Light
+8800.5,Cemented Fractures,Light
+8801,Cemented Fractures,Light
+8801.5,Cemented Fractures,
+8803.5,Open Fractures,
+8804,,Light

@@ -17,3 +17,5 @@ In this project, I attempt to produce a logistic regression classification model
 As with other AI tools, augmenting the work of a human is the powerful outcome desired. I argue, if done reliably, responsibly, successfully, the automation of facies description could produce more objective rock description data on a quicker timeline than having a geologist start from scratch, describing the rock by hand. Ground-truthing and human oversight is necessary, but would be a simpler, more streamlined, perhaps more reliable way to produce more consistent results and build more reliable models.  
 
 I am using Kmeans clusters models to classify the lithofacies, unsupervised. Enjoy the iterative progress and results in the ipynb file.  
+
+I am now bringing in oil staining data and farcture data to aid in the cluster modeling. Stay tuned.
